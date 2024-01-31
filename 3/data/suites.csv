@@ -1,0 +1,6 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Wed Jan 31 23:04:14 GMT 2024","Wed Jan 31 23:04:14 GMT 2024","4","","org.acme.getting.started.testing.GreetingResourceTest","","org.acme.getting.started.testing.GreetingResourceTest","allureStepApiTest","allureStepApiTest()",""
+"passed","Wed Jan 31 23:04:14 GMT 2024","Wed Jan 31 23:04:14 GMT 2024","45","","org.acme.getting.started.testing.StaticContentTest","","org.acme.getting.started.testing.StaticContentTest","testIndexHtml","testIndexHtml()",""
+"passed","Wed Jan 31 23:04:13 GMT 2024","Wed Jan 31 23:04:14 GMT 2024","1054","","org.acme.getting.started.testing.GreetingResourceTest","","org.acme.getting.started.testing.GreetingResourceTest","testHelloEndpoint","testHelloEndpoint()",""
+"passed","Wed Jan 31 23:04:14 GMT 2024","Wed Jan 31 23:04:14 GMT 2024","35","","org.acme.getting.started.testing.GreetingResourceTest","","org.acme.getting.started.testing.GreetingResourceTest","testGreetingEndpoint","testGreetingEndpoint()",""
+"passed","Wed Jan 31 23:04:14 GMT 2024","Wed Jan 31 23:04:14 GMT 2024","7","","org.acme.getting.started.testing.GreetingServiceTest","","org.acme.getting.started.testing.GreetingServiceTest","testGreetingService","testGreetingService()",""
